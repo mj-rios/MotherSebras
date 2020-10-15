@@ -1,0 +1,58 @@
+{
+    "packages": [
+        {
+            "name": "MotherSebras",
+            "maintainer": "Pretto Rios Ingenieria",
+            "websiteURL": "http://www.prettoriosingenieria.unaux.com/",
+            "email": "mrios.pring@gmail.com",
+            "help": {
+                "online": "http://www.prettoriosingenieria.unaux.com/"
+            },
+            "platforms": [
+                {
+                    "name": "Motherboard Sebras Porta 4.0",
+                    "architecture": "samd",
+                    "version": "1.0.0",
+                    "category": "Industry",
+                    "url": "https://github.com/mj-rios/MotherSebras/raw/main/MotherSebras.zip",
+                    "archiveFileName": "MotherSebras.zip",
+                    "checksum": "SHA-256:bb1ec6243c2d195614fb9802fc774e3f763087ae464df0e8ea0bd5d5f68d1cb8",
+                    "size": "2456707",
+                    "boards": [
+                        {
+                            "name": "Motherboard Sebras Porta 4.0"
+                        }
+                    ],
+                    "toolsDependencies": [
+						{
+						  "name": "arm-none-eabi-gcc",
+						  "packager": "arduino",
+						  "version": "4.8.3-2014q1"
+						},
+						{
+						  "name": "bossac",
+						  "packager": "arduino",
+						  "version": "1.8.0-48-gb176eee"
+						},
+						{
+						  "name": "openocd",
+						  "packager": "arduino",
+						  "version": "0.9.0-arduino"
+						},
+						{
+						  "name": "CMSIS",
+						  "packager": "arduino",
+						  "version": "4.5.0"
+						},
+						{
+						  "name": "CMSIS-Atmel",
+						  "packager": "arduino",
+						  "version": "1.2.0"
+						}
+                     ]
+				}
+            ],
+            "tools": []
+        }
+    ]
+}
