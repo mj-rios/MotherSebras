@@ -10,14 +10,14 @@
             },
             "platforms": [
                 {
-                    "name": "Motherboard Sebras Porta 4.0",
+                    "name": "Cortex M0",
                     "architecture": "samd",
                     "version": "1.0.0",
                     "category": "Industry",
                     "url": "https://github.com/mj-rios/MotherSebras/raw/main/MotherSebras.zip",
                     "archiveFileName": "MotherSebras.zip",
-                    "checksum": "SHA-256:bb1ec6243c2d195614fb9802fc774e3f763087ae464df0e8ea0bd5d5f68d1cb8",
-                    "size": "2456707",
+                    "checksum": "SHA-256:4824a89fe637a04d57e1e4a1d229b493d43cd6108b66c2f895a1bb9ca52d49ee",
+                    "size": "2456765",
                     "boards": [
                         {
                             "name": "Motherboard Sebras Porta 4.0"
