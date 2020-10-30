@@ -16,8 +16,8 @@
                     "category": "Industry",
                     "url": "https://github.com/mj-rios/MotherSebras/raw/main/MotherSebras.zip",
                     "archiveFileName": "MotherSebras.zip",
-                    "checksum": "SHA-256:7e0d9e4fec5fb84c69172b77cfe03ce4341ce70602f0d8c7fa94cd4bafe71eed",
-                    "size": "2456820",
+                    "checksum": "SHA-256:9be57c3146dea322dd1e2b588ddaa8ec8e0fa3805c419027937f06b48363fac9",
+                    "size": "2456819",
                     "boards": [
                         {
                             "name": "Motherboard Sebras Porta 4.0"
