@@ -12,11 +12,11 @@
                 {
                     "name": "Cortex M0",
                     "architecture": "samd",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "Industry",
                     "url": "https://github.com/mj-rios/MotherSebras/raw/main/MotherSebras.zip",
                     "archiveFileName": "MotherSebras.zip",
-                    "checksum": "SHA-256:cb7eb1c8b6b06c8b271c1e1fef95ca41669565913068c57836fe73e16245d4fc",
+                    "checksum": "SHA-256:7e0d9e4fec5fb84c69172b77cfe03ce4341ce70602f0d8c7fa94cd4bafe71eed",
                     "size": "2456820",
                     "boards": [
                         {
